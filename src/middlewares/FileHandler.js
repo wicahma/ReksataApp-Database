@@ -1,11 +1,10 @@
 const Multer = require("multer");
 const fs = require("fs");
 
-
 const multer = Multer({
   storage: Multer.diskStorage({
     destination: function (req, file, callback) {
-      callback(null, `${__dirname}`);
+      callback(null, "/tmp");
     },
     filename: function (req, file, callback) {
       callback(
