@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "decoded-bulwark-355214",
+  "private_key_id": "da9fe8f9513533fc43dbd2d960bf78240ce738ac",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCkcE3rSeuwwOq6\nTxO5VMTkMt21t7N3FWCdkCCc8NmG9tsIC9vLAP+LjWAcpa0FiwGeFwhgmEO8B29R\nxEZaatu3RRK55uUXSb46uTUpRVtFtEfqBr+/bxx5EgRe06FeLWSzih39wM/nGFKs\nCjOFUsWhGr2McctWfLWIRN0j1qf1BYNuhTakpExttS2sEOFKdwJ7Xw8rXIPxWKr1\nIVZOKX8GbdVq39aHlNkM5ZOLOTS9TpbQCvyhB5fpOwe9pwmF3W1ayemyZ88vova2\nXpTCI87MOmJGQN/ukaxercvTCtGAbm8iP32XAsKEbD65yKG3nAmHMU92uJgfRfKX\nR7DrYgJhAgMBAAECggEAJ7vCPDEZrBVFcpzSd4UR6VEYLQVVLlhiRthRZRK2gSvr\na4OQCbq1ROd1mp520yDOVICcw9hu/4NtZNzQIh9xdVSRrI1r/EdTmbVwcMdDQXHJ\nMbWNRijHQML3fuFUu+CslUxxqEPbiKviKBNz9Qp12hKPzBygBUcvhxyascL3xRa6\n+1ncCTAaIjwa/kLtO0JAC17ospl4VL77p9QaE1tMNbgI5XaSwVQq/Y6v/L7arwHc\nMFqcwAdJxNpZGGldysWU+wuaOS2LS3bW/SASpDujFUnKalWIAVx+1KrM+EkPjFd/\nuiUwBfcRInqXPFnCx3ToIjAqTJiWgJrW/j9uN3QU9QKBgQDkgZwP7OBQcZz9F9RC\n9asAFllVqxUdjMsakwPA9+qTaC6NhFUKiqnZMQjV52SslOSTFXRcMStd2AGiD56D\nDArU6RKqN1aXo5XZNbL2TPt8HbYpLI8RrFLxyTsrR5Jc7GgDBTBPIVHdnztrU+yb\nf4GmgEoQHTSPmL5X+vZvZb0h9QKBgQC4OU0uDnDuOeKONuNF/lFDsvaVhxUB/Zpl\ntlT8UZiYjJPwqkF7DwmGEKAERi3qITxYu+vW/aCBRqm0+kryqg5IwIgVYEKA3ROs\n4xmPLxgDtlSq6Bs5+nGmA5acPkcRKckk53l+gMNh3584N8IdwuetQ3bXfL5B50gM\nyhF7WXtfPQKBgDVAg0cu0+PLZmORLxVfvTcq/iy5zxTw39BUnJZW8GLj751pToxD\nXmvQQpfe8hZKKK6iXFiz2MBo+5ByBWXS459UpdXnSZXTOLPDEO7XZ/A32GDmEn1y\n5G2WkOR4LILdUSwLBIQcZsC4QBe2Gjju0R8lXJ0+wSYJ2aoVQWMamaYVAoGATz3m\nou73SKGBgCa/7/WKwxIR2xO1x5tsdF/PgpEekE+3uwehDuvS7uXrzqrZSSJusMR0\nl4+VIMZibURURLk9V7HpVziGoqN1uSIedmaNb9tX5APe4juF8yEMAb0QGKPer48Z\nxX5hjJICDM5/IwoZWX/xeJNhyztO1KF+j45X8QkCgYBhY8qNE83iVC8FQuuEBbpQ\n3QUGpT84T4FW29ZKBplq/wl3WrBHalO+e8iwFctQ/FIMhlDMipYSa8l1McdzevLf\nqsXV2pbbkGaEzo1xkAhAU11eNip5XsxSEkGOiGYjERMB21s1RfVvaB8CHzOnU4tB\nwN+gWJr43jhUdGjjpruOpw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "reksata-storage-admin@decoded-bulwark-355214.iam.gserviceaccount.com",
+  "client_id": "110402551040627076085",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/reksata-storage-admin%40decoded-bulwark-355214.iam.gserviceaccount.com"
+}
