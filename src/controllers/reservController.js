@@ -1,7 +1,7 @@
 const { validationResult } = require("express-validator");
 const reservasi = require("../models/reservModel");
-const { Client, LocalAuth, Buttons } = require("whatsapp-web.js");
-const client = require("../services/WhatsappClient");
+// const { Client, LocalAuth, Buttons } = require("whatsapp-web.js");
+// const client = require("../services/WhatsappClient");
 
 // Done
 exports.getAllReserv = (req, res, next) => {
@@ -80,8 +80,8 @@ exports.createReserv = (req, res, next) => {
           ? "Tidak memesan makan!"
           : `Ada memesan makan!`
       }`;
-      const pengguna = client.sendMessage(`${resp.nomor}@c.us`, messages);
-      const barista = client.sendMessage(`6285751080434@c.us`, messages);
+      // const pengguna = client.sendMessage(`${resp.nomor}@c.us`, messages);
+      // const barista = client.sendMessage(`6285751080434@c.us`, messages);
       return res.status(201).json({ id: resp._id });
     })
     .catch((err) => {
