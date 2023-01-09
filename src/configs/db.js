@@ -7,7 +7,7 @@ const DB_Connect = async () => {
       .connect(process.env.DB_URI);
     console.log(`Host ${conn.connection.host} at port ${conn.connection.port}`);
     console.log("Database Connected!");
-    console.log("waiting for whatsapp to connected, please wait again...");
+    // console.log("waiting for whatsapp to connected, please wait again...");
   } catch (err) {
     console.log(err);
     process.exit(1);
